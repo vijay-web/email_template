@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Template</title>
+    <link rel="stylesheet" href="rdptemp.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,100;1,300;1,400&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/fbfdd87d47.js" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container-email-temp m-5" 
+        
+        style="font-family:Roboto, sans-serif; color: #911b42;"> <!---css style for font family-->
+        <h3 class="e-title" style="font-size:16px; font-weight:bold;">Regards,</h3>
+        <p class="e-name"style="font-size:16px;">Vijay</p>
+        <p class="e-designation">Front End Developer</p>
+        <P class="company">RDP</P>
+        <img src="https://d3j0t7vrtr92dk.cloudfront.net/rdp/1603088797_rdp-logo.png?" class="company-logo mb-2"/>
+        <address class="company-address">RDP Work Stations 4<sup>th</sup> Floor,<br>Ashok Capitol Banjara Hills Road no-2</sup></address>
+            <div class="d-flex flex-row">         
+                <div class="social-media-icons m-2">
+                    <a href="https://www.facebook.com/RDP.ModernPCs" class="fa fa-facebook icon"></a>
+                </div>   
+                <div class="social-media-icons m-2">
+                    <a href="https://twitter.com/RDPIndia" class="fa fa-twitter icon"style="font: size 38px !important;"></a>
+                </div>    
+                <div class="social-media-icons m-2 ">
+                    <a href="https://www.youtube.com/user/rdpcomputing/channels" class="fa fa-youtube icon"></a>
+                </div> 
+                <div class="social-media-icons m-2">
+                    <a href="https://www.linkedin.com/company/rdpindia/mycompany" class="fab fa-linkedin-in"></a>
+                </div> 
+                <div class="social-media-icons m-2">
+                    <a href="https://www.instagram.com/rdpmodernpcs/" class="fab fa-instagram icon"></a>
+                </div>
+         </div>
+    </div>
+</body>
+</html>
